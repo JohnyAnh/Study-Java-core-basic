@@ -1,0 +1,15 @@
+
+q
+java:S1659">Declare "j" and all following declarations on a separate line.(≠ºê÷8à¢ÙïÙ0HãRMINORZ
+CODE_SMELL
+q
+java:S1659">Declare "j" and all following declarations on a separate line.(≠ºê÷8à¢ÙïÙ0HáRMINORZ
+CODE_SMELL
+É	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠ºê÷8à¢ÙïÙ0HÉRMINORZ
+CODE_SMELL
+É	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠ºê÷8à¢ÙïÙ0HÑRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hı
+RMINORZ
+CODE_SMELL

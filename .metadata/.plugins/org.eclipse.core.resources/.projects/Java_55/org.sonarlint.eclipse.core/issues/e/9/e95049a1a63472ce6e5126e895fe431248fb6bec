@@ -1,0 +1,20 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã…ùÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¯üúÚHRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(â±¿ĞûÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ó‚¸ úÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(¶ºúú8Ø³³áõ0H RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(•ñ§í8”Î«áõ0H›RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Šº¢áõ0H“RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÕ­ŸûÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(»ùÓûHŠRMAJORZ
+CODE_SMELL

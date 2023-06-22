@@ -1,0 +1,30 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8ßí×²ô0HÓRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(†í¦·þÿÿÿÿ8Ó¡“²ô0H¹RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8à«Ì²ô0HËRMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8æœÄ²ô0HÁRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¯÷—8Ó¡“²ô0H¸RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ8Á†©²ô0H»RMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Ó¡“²ô0H·RMAJORZ
+CODE_SMELL
+‚
+java:S1192
+"LDefine a constant instead of duplicating this literal "-----------" 4 times.(‚ÎšÛ8à«Ì²ô0HÆRCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8à«Ì²ô0HÊRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8ßí×²ô0HÔRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÊê>8æœÄ²ô0HÀRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H²RMINORZ
+CODE_SMELL

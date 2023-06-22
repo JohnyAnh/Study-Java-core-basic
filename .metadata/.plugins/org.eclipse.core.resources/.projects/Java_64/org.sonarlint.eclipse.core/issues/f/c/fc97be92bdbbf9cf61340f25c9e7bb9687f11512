@@ -1,0 +1,38 @@
+
+k	java:S106="9Replace this use of System.out or System.err by a logger.(ÚµÙ8š“ºäû0HÙRMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(ß¤Ö¶8õ¯„åû0HßRMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(ö ö¼üÿÿÿÿ8š“ºäû0HØRMAJORZ
+CODE_SMELL
+w	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö )HËRMINORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8š“ºäû0HÓRMAJORZ
+CODE_SMELL
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(ıŸñ¹8š“ºäû0HÔRMAJORZ
+CODE_SMELL
+p	java:S106R"9Replace this use of System.out or System.err by a logger.(ÒŒ‚Òüÿÿÿÿ8ÅŸËåû0HñRMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ÀÓÎéÿÿÿÿÿ8š“ºäû0HÛRMAJORZ
+CODE_SMELL
+k	java:S106O"9Replace this use of System.out or System.err by a logger.(‘‹€8ÅŸËåû0HòRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(ŞìÔêÿÿÿÿÿ8š“ºäû0H×RMAJORZ
+CODE_SMELL
+R
+java:S2119&"Save and re-use this "Random".(®ø»›şÿÿÿÿ8õ¯„åû0HŞRCRITICALZBUG
+k	java:S106?"9Replace this use of System.out or System.err by a logger.(Œ—²Ã8š“ºäû0HÕRMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(Î†ìøÿÿÿÿ8š“ºäû0HÚRMAJORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®‚ÜÒøÿÿÿÿ8ÅŸËåû0HïRCRITICALZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(Ö´üÿÿÿÿ8›ê›åû0HçRMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(®€Áıÿÿÿÿ8š“ºäû0HÖRMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(Ÿøÿ8š“ºäû0HÒRMAJORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(ÇÄİä8ØÅâåû0HûRMAJORZ
+CODE_SMELL

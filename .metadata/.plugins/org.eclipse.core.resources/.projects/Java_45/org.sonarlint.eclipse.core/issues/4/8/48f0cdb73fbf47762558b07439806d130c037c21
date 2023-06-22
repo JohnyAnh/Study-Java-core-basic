@@ -1,0 +1,16 @@
+
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ХзД•8Єрозу0Hд	RMAJORZ
+CODE_SMELL
+q
+java:S5993"9Change the visibility of this constructor to "protected".(ЋиЅФю€€€€8ƒХЏзу0HЁ	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(†нясш€€€€8Єрозу0Hв	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Э§Ѓ®ш€€€€8Єрозу0Hг	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H’	RMINORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ќюЙ≥ь€€€€8юƒ™иу0Hі
+RMAJORZ
+CODE_SMELL

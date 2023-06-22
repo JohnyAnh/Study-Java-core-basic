@@ -1,0 +1,12 @@
+
+s	java:S125\"<This block of commented-out lines of code should be removed.(şÖ Ìùÿÿÿÿ8ñâÌ³ò0HÚRMAJORZ
+CODE_SMELL
+y
+java:S1126e"AReplace this if-then-else statement by a single return statement.(Ã’Ò×ıÿÿÿÿ8©ÀŒ³ò0HÓRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÇRMINORZ
+CODE_SMELL
+s
+java:S1659"BDeclare "month" and all following declarations on a separate line.(Ä¨™½ùÿÿÿÿHÈRMINORZ
+CODE_SMELL

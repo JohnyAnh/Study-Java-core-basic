@@ -1,0 +1,31 @@
+
+k	java:S1065"9Replace this use of System.out or System.err by a logger.(¨‘€¯8á‚Ùş0H¬RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(È©ƒ«8á‚Ùş0H­RMAJORZ
+CODE_SMELL
+e
+java:S6126)"2Replace this String concatenation with Text block.(Ãöù¯8á‚Ùş0H¯RMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(Éº›ğÿÿÿÿÿ8á‚Ùş0H²RMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(‡óÊ„ÿÿÿÿÿ8Î¢˜Ùş0H½RMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(Ãöù¯8á‚Ùş0H°RMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(¨‘€¯8”¤ÍØş0HœRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(‚çşF8á‚Ùş0H±RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Ø×Èùÿÿÿÿ8”¤ÍØş0H—RMINORZ
+CODE_SMELL
+p	java:S106@"9Replace this use of System.out or System.err by a logger.(Ğ±ü¨ÿÿÿÿÿ8Î¢˜Ùş0H¼RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(Şù½²øÿÿÿÿ8á‚Ùş0H®RMAJORZ
+CODE_SMELL
+‘
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "yNghia".(´˜ı·8”¤ÍØş0H™RMINORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8úÙ²Ùş0HÑRMINORZ
+CODE_SMELL

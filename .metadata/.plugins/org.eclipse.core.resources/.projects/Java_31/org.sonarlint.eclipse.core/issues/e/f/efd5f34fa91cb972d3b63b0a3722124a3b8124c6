@@ -1,0 +1,12 @@
+
+‹	java:S116"TRename this field "KhoiLuong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹œ–ıÿÿÿÿ8áÔş§ğ0HÎRMINORZ
+CODE_SMELL
+i
+java:S1068"6Remove this unused "tenLoaiCaPheString" private field.(å…‰­8áÔş§ğ0HÏRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÉRMINORZ
+CODE_SMELL
+~
+java:S1128"FRemove this unused import 'javax.print.attribute.HashDocAttributeSet'.(ñ³¶Çüÿÿÿÿ8¦Ìô¼ğ0HÿRMINORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û´‰H¨#RMINORZ
+CODE_SMELL
+d	java:S106?"9Replace this use of System.out or System.err by a logger.(ˆµH±#RMAJORZ
+CODE_SMELL
+]
+java:S1135^"2Complete the task associated to this TODO comment.(‡ñÅ¼H³#RINFOZ
+CODE_SMELL
+|
+java:S2095g"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(…¿Ã.8—à´Õ‚1H÷#RBLOCKERZBUG
+€
+java:S2095f"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ü˜¯§ıÿÿÿÿ8—à´Õ‚1Hö#RBLOCKERZBUG
+”
+java:S1319"hThe type of "danhSach" should be an interface such as "List" rather than the implementation "ArrayList".(Ãê˜–Hª#RMINORZ
+CODE_SMELL
+|
+java:S2095W"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(›å†äıÿÿÿÿH¯#RBLOCKERZBUG
+Y
+java:S1604E"(Make this anonymous inner class a lambda(ÖÅâÙûÿÿÿÿH­#RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ù“–¨üÿÿÿÿH°#RMAJORZ
+CODE_SMELL
+z
+java:S2095V"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ş›”ÊùÿÿÿÿH®#RBLOCKERZBUG
+d
+java:S1135u"2Complete the task associated to this TODO comment.(‡ñÅ¼8—à´Õ‚1Hø#RINFOZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(ˆµH²#RMAJORZ
+CODE_SMELL

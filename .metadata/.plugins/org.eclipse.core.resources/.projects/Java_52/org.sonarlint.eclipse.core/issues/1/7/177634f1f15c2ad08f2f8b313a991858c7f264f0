@@ -1,0 +1,26 @@
+
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(­´âÿúÿÿÿÿ8Ï¸•õ0HÁRMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(¾„Î8¯€†õ0H¼RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ãØÏı8Ùâüõ0HºRMAJORZ
+CODE_SMELL
+ƒ
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ì‚ßşûÿÿÿÿ8Üèçõ0H³RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›È–úÿÿÿÿ8Üèçõ0H´RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¢RMINORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(®Åò‘ûÿÿÿÿ8¸ÈÛõ0H®RMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(şÀ›¡üÿÿÿÿ8¸ÈÛõ0H¯RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘óúÿÿÿÿ8Ñ°öõ0HµRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥Úéº8•—ƒõ0H»RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(œó³Œ8¤õšõ0HÂRMAJORZ
+CODE_SMELL

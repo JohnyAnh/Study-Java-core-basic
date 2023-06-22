@@ -1,0 +1,23 @@
+
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¨¼µ¿ıÿÿÿÿ8Íˆùáş0HÿRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(»Ö–£8ˆ°ûáş0HRMAJORZ
+CODE_SMELL
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¥¨˜¦şÿÿÿÿ8‰Ãıáş0H‚RMINORZ
+CODE_SMELL
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Â¸´”8Úâ‹âş0H…RMINORZ
+CODE_SMELL
+y
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(Ÿñ«àøÿÿÿÿ8ÛÁ—âş0HˆRMINORZ
+CODE_SMELL
+s	java:S125	"<This block of commented-out lines of code should be removed.(‰­òøøÿÿÿÿ8Íˆùáş0HşRMAJORZ
+CODE_SMELL
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(îáçÜ8®Î…âş0H„RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(õèƒØûÿÿÿÿ8‰Ãıáş0HƒRMAJORZ
+CODE_SMELL
+m	java:S899#"BDo something with the "boolean" value returned by "createNewFile".(á‡³8Œšâş0H‹RMINORZBUG

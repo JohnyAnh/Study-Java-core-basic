@@ -1,0 +1,18 @@
+
+g
+java:S1481"/Remove this unused "gridLayout" local variable.(³øÂ€şÿÿÿÿ8ã®¼åƒ1HÒ%RMINORZ
+CODE_SMELL
+w
+java:S3252""IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¾ƒÉNHÅ%RCRITICALZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘§ĞÔ8ã®¼åƒ1HÑ%RMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñõÇH¾%RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(­ê¼ò8ã®¼åƒ1HÔ%RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È–îùÿÿÿÿ8ŒõÆåƒ1HÜ%RMINORZ
+CODE_SMELL
+d
+java:S1481"1Remove this unused "gridLayout_1" local variable.(‘§ĞÔ8½ùÒåƒ1Hò%RMINORZ
+CODE_SMELL

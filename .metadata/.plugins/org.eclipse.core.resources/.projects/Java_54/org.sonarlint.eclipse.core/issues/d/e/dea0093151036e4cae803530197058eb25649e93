@@ -1,0 +1,8 @@
+
+s	java:S1258"<This block of commented-out lines of code should be removed.(Çòùúÿÿÿÿ8°ì¤¬õ0HŒRMAJORZ
+CODE_SMELL
+‘
+java:S12103"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ğ±°¦ùÿÿÿÿ8‡Œû«õ0HRMINORZ
+CODE_SMELL
+s	java:S125D"<This block of commented-out lines of code should be removed.(¥ÏÜ—ûÿÿÿÿ8ššÊ­õ0HRMAJORZ
+CODE_SMELL

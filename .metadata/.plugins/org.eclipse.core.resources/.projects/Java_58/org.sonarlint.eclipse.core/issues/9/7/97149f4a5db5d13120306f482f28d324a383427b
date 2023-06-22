@@ -1,0 +1,36 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ğù±œ8èÂÛÙö0H‹RMAJORZ
+CODE_SMELL
+w
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ìŸ¶çùÿÿÿÿ8êÛàÙö0HRMINORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(²¨»ø8èÂÛÙö0HŒRMAJORZ
+CODE_SMELL
+—
+java:S1192"aDefine a constant instead of duplicating this literal "--------------------------------" 3 times.(òÔÇÍ8˜ÿåÛö0H RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ôë…–şÿÿÿÿ8Î“ıÛö0H«RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(´îáÊ8æ’Üö0HÊRMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(¸ÀÅã8¢ÿ©Üö0HÑRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8™•‹Üö0H¸RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ô©¿8ó‡éÙö0HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8ô•áÛö0H“RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ß˜İşÿÿÿÿ8¡–Üö0HÆRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ìŸ¶çùÿÿÿÿ8˜ÿåÛö0H¤RMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(Îû§ˆûÿÿÿÿ8½õÜö0H¿RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(›¿ˆÛüÿÿÿÿ8¢ê¯Ùö0HˆRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿì‚íûÿÿÿÿ8¢ê¯Ùö0H‰RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ•›øıÿÿÿÿ8¢ê¯Ùö0H‡RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8ô•áÛö0H’RMAJORZ
+CODE_SMELL

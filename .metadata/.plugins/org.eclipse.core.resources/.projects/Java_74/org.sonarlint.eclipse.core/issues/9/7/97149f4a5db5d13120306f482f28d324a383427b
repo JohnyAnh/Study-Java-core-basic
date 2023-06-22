@@ -1,0 +1,68 @@
+
+i
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ÄÎø¨HÓ#RCRITICALZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(Îü¤½ıÿÿÿÿHÒ#RCRITICALZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(øÂæÿÿÿÿÿHÎ#RCRITICALZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(éÚÃıÿÿÿÿHÔ#RCRITICALZ
+CODE_SMELL
+‡
+java:S1192""XDefine a constant instead of duplicating this literal "Nháº­p mÃ£ sinh viÃªn: " 3 times.(†­ÇîHÅ#RCRITICALZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(Ä§‰ğÿÿÿÿÿHÚ#RMAJORZ
+CODE_SMELL
+i
+java:S2479":Remove the non-escaped \u0009 character from this literal.(¸·©ìHÑ#RCRITICALZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(„ÿã”úÿÿÿÿHÏ#RCRITICALZ
+CODE_SMELL
+i	java:S106A"9Replace this use of System.out or System.err by a logger.(Ğ„ËşıÿÿÿÿHà#RMAJORZ
+CODE_SMELL
+d	java:S106;"9Replace this use of System.out or System.err by a logger.(†­ÇîHŞ#RMAJORZ
+CODE_SMELL
+h
+java:S2479":Remove the non-escaped \u0009 character from this literal.(äÑŸ5HĞ#RCRITICALZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(ˆ§‚ğüÿÿÿÿHØ#RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûıHË#RMAJORZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(è–ÛñùÿÿÿÿHÕ#RCRITICALZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(ºíİ§HÖ#RMAJORZ
+CODE_SMELL
+d	java:S1060"9Replace this use of System.out or System.err by a logger.(·¸µ˜HÛ#RMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(ˆ§‚ğüÿÿÿÿHá#RMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(™è‡±ùÿÿÿÿ8À™Õ‚1Hç#RMAJORZ
+CODE_SMELL
+d	java:S1068"9Replace this use of System.out or System.err by a logger.(åóÚ¡Hİ#RMAJORZ
+CODE_SMELL
+i
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ØŞñÌHÍ#RCRITICALZ
+CODE_SMELL
+^
+java:S6126"2Replace this String concatenation with Text block.(ØŞñÌHÌ#RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(®¢Œ«HÊ#RMAJORZ
+CODE_SMELL
+d	java:S106="9Replace this use of System.out or System.err by a logger.(õ£•ôHß#RMAJORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(†­ÇîH×#RMAJORZ
+CODE_SMELL
+i	java:S106I"9Replace this use of System.out or System.err by a logger.(™è‡±ùÿÿÿÿHâ#RMAJORZ
+CODE_SMELL
+d	java:S1066"9Replace this use of System.out or System.err by a logger.(†­ÇîHÜ#RMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(–éĞşÿÿÿÿHÙ#RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ì—ÀHÉ#RMAJORZ
+CODE_SMELL

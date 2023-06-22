@@ -1,0 +1,14 @@
+
+z
+java:S1128"GRemove this unused import 'javax.swing.event.TableColumnModelListener'.(š”Ò¿8úŠŞ¸ú0H´RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(—ïÎµ8Ãµ¤¸ú0H­RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÅ²üÿÿÿÿ8ĞåÚù0H©RMINORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8Ãµ¤¸ú0H®RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÊäÇÿÿÿÿÿ8È§ß¸ú0H»RMAJORZ
+CODE_SMELL

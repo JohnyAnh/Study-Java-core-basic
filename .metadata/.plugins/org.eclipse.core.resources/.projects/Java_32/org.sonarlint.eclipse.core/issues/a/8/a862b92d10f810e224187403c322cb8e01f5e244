@@ -1,0 +1,26 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÈýÁ³8•ŸÈ¯ò0HáRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(Š¹íÎûÿÿÿÿ8¼ÂÏ¯ò0HêRMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(ÈýÁ³8éºÉ¯ò0HæRMAJORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "Day =" 3 times.(ÈýÁ³8éºÉ¯ò0HâRCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÈýÁ³8ÃÉ¦¯ò0HÁRMAJORZ
+CODE_SMELL
+„
+java:S1192
+"IDefine a constant instead of duplicating this literal "Month = " 4 times.(Š¹íÎûÿÿÿÿ8Ëˆ×¯ò0HøRCRITICALZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¸šÏ8Ëˆ×¯ò0HüRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H—RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Š¹íÎûÿÿÿÿ8ËÀÑ¯ò0HñRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¸šÏ8ìØØ¯ò0H„RMAJORZ
+CODE_SMELL

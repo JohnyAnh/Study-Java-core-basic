@@ -1,0 +1,31 @@
+
+Œ
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8ÄÆ÷Úş0HìRMINORZ
+CODE_SMELL
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù»—Œ8ÄÆ÷Úş0HîRMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’±àşÿÿÿÿ8ÄÆ÷Úş0HğRMINORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "set".(’±àşÿÿÿÿ8ÄÆ÷Úş0HòRMAJORZ
+CODE_SMELL
+l
+java:S1854
+"9Remove this useless assignment to local variable "list2".(Ù»—Œ8ÄÆ÷Úş0HóRMAJORZ
+CODE_SMELL
+k
+java:S1854	"8Remove this useless assignment to local variable "list".(œœÕ¼8ÄÆ÷Úş0HôRMAJORZ
+CODE_SMELL
+\
+java:S1481	")Remove this unused "list" local variable.(œœÕ¼8ÄÆ÷Úş0HõRMINORZ
+CODE_SMELL
+]
+java:S1481
+"*Remove this unused "list2" local variable.(Ù»—Œ8ÄÆ÷Úş0H÷RMINORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "set" local variable.(’±àşÿÿÿÿ8ÄÆ÷Úş0HùRMINORZ
+CODE_SMELL

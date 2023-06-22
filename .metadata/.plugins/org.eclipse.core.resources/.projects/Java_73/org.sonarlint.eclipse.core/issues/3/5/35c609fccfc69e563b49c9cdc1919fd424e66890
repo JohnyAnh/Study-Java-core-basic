@@ -1,0 +1,11 @@
+
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‘Ÿ‡È8¬ßÑÓ‚1HŒ#RMINORZ
+CODE_SMELL
+
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ş›”Êùÿÿÿÿ8¬ßÑÓ‚1HŠ#RBLOCKERZBUG
+d
+java:S1135"2Complete the task associated to this TODO comment.(‡ñÅ¼8¬ßÑÓ‚1H#RINFOZ
+CODE_SMELL
+ƒ
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(›å†äıÿÿÿÿ8¬ßÑÓ‚1H‹#RBLOCKERZBUG

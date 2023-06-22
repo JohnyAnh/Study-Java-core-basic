@@ -1,0 +1,15 @@
+
+{
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÀˆóÙ8Ñ‰Õ‚1H»#RBLOCKERZBUG
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(µœœ»8üôÒÔ‚1H¸#RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¾¾´Éüÿÿÿÿ8Ñ‰Õ‚1H½#RMAJORZ
+CODE_SMELL
+|
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(…¿Ã.8Ñ‰Õ‚1H¼#RBLOCKERZBUG
+d
+java:S1135"2Complete the task associated to this TODO comment.(‡ñÅ¼8üôÒÔ‚1H¹#RINFOZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ8çŠÕ‚1H¿#RMAJORZ
+CODE_SMELL

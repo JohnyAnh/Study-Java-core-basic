@@ -1,0 +1,24 @@
+
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ùéu8‘¾¤åƒ1H%RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ıÅúÿÿÿÿ8†¿’åƒ1Hå$RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŸ8†¿’åƒ1Hæ$RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚­Î8‘¾¤åƒ1H%RMINORZ
+CODE_SMELL
+c
+java:S1481"1Remove this unused "flowLayout_1" local variable.(•Ùéu8µíªåƒ1H­%RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁ‘ò8†¿’åƒ1Hç$RMINORZ
+CODE_SMELL
+g
+java:S1481"/Remove this unused "flowLayout" local variable.(Ó¼±çıÿÿÿÿ8Š‡ªåƒ1H¡%RMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯À´òHÁ$RMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ş×8Š‡ªåƒ1H¥%RMAJORZ
+CODE_SMELL
+~
+java:S3252$"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¾ƒÉN8×ëõäƒ1Hú$RCRITICALZ
+CODE_SMELL

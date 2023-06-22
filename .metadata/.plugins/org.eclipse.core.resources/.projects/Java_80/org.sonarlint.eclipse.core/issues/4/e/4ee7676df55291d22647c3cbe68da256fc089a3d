@@ -1,0 +1,43 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ƒÓÅ8ž†Œèƒ1HÕ&RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ‡Ü¨úÿÿÿÿ8ž†Œèƒ1HÔ&RMINORZ
+CODE_SMELL
+n	java:S125M"<This block of commented-out lines of code should be removed.(ç÷‚Á8ÝÔÀèƒ1Hž'RMAJORZ
+CODE_SMELL
+ƒ	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÆ´€8ž†Œèƒ1HÛ&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ßóÛ8²Çïçƒ1HÆ&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŽŸ8ž†Œèƒ1HÒ&RMINORZ
+CODE_SMELL
+ˆ	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¾ƒìùÿÿÿÿ8ž†Œèƒ1HØ&RMINORZ
+CODE_SMELL
+‚	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¹Ék8ž†Œèƒ1HÝ&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁ‘ò8ž†Œèƒ1HÓ&RMINORZ
+CODE_SMELL
+ƒ	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿šá8ž†Œèƒ1HÚ&RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ýÅúÿÿÿÿ8ž†Œèƒ1HÑ&RMINORZ
+CODE_SMELL
+ƒ	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’’Ž³8ž†Œèƒ1H×&RMINORZ
+CODE_SMELL
+ƒ	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ü°8ž†Œèƒ1HÞ&RMINORZ
+CODE_SMELL
+ˆ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…àîÉøÿÿÿÿ8ž†Œèƒ1HÙ&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚š„À8ž†Œèƒ1HÖ&RMINORZ
+CODE_SMELL
+ˆ	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÆüõüÿÿÿÿ8èêèƒ1HŒ'RMINORZ
+CODE_SMELL
+ƒ	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¡ºØ8ž†Œèƒ1HÜ&RMINORZ
+CODE_SMELL
+k
+java:S1128"3Remove this unused import 'java.awt.GridBagLayout'.(ßŒÛúùÿÿÿÿ8—ÿÀèƒ1H¦'RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÍÕ‘ùÿÿÿÿ8²Çïçƒ1HÇ&RMINORZ
+CODE_SMELL
+~
+java:S3252C"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8šá×çƒ1H»&RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,8 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(ÎŒ’úÿÿÿÿHÀ!RMAJORZ
+CODE_SMELL
+u
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ÎŒ’úÿÿÿÿH¿!RBLOCKERZBUG
+F
+java:S1220""Move this file to a named package.H¾!RMINORZ
+CODE_SMELL

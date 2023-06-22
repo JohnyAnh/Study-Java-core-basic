@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Java_40b/src&apos;&#x0A;- Original project: &apos;Java_40a&apos;&#x0A;- Destination element: &apos;Java_40b/src&apos;&#x0A;- Original elements:&#x0A;     Main.java&#x0A;     Dog.java&#x0A;     Animal.java" description="Copy compilation units" destination="=Java_40b/src" element1="/src&lt;{Main.java" element2="/src&lt;{Dog.java" element3="/src&lt;{Animal.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1680162052925" units="3" version="1.0"/>
+</session>

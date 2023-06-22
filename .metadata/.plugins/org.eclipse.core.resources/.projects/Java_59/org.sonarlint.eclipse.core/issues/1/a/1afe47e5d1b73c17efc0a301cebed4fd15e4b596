@@ -1,0 +1,31 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÀË³8œñ¹±ù0HæRMINORZ
+CODE_SMELL
+Z
+java:S1481"(Remove this unused "TK4" local variable.(ÇØð\8œñ¹±ù0HèRMINORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "TK5".(²ÀË³8œñ¹±ù0HçRMAJORZ
+CODE_SMELL
+i
+java:S1854"7Remove this useless assignment to local variable "TK4".(ÇØð\8¸§·±ù0H×RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(À‘æüþÿÿÿÿ8îþ½±ù0HöRMAJORZ
+CODE_SMELL
+i
+java:S1854"7Remove this useless assignment to local variable "TK2".(Óÿ²>8¸§·±ù0HØRMAJORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óÿ²>8¸§·±ù0HÕRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ìµû©8Á‰á±ù0H¡RMAJORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù’	8¸§·±ù0HÔRMINORZ
+CODE_SMELL
+Z
+java:S1481"(Remove this unused "TK2" local variable.(Óÿ²>8¸§·±ù0HÜRMINORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "TK5" local variable.(²ÀË³8œñ¹±ù0HêRMINORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇØð\8¸§·±ù0HÖRMINORZ
+CODE_SMELL

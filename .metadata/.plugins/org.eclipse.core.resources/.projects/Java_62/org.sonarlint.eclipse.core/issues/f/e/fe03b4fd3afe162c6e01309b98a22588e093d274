@@ -1,0 +1,27 @@
+
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ìãƒœùÿÿÿÿ8ª•Úù0H”RMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ëÇæüÿÿÿÿ8÷ÿ†Úù0H›RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â¿´‡8¬İÙù0HıRMINORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(Õ‰¨Ü8ÊşÙù0HŒRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±ä‚÷ùÿÿÿÿ8¬İÙù0HRMAJORZ
+CODE_SMELL
+ƒ
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(â¿´‡8¬İÙù0HÿRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ëº³õ8¬İÙù0H‚RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÊşÙù0HRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ùÇ¦øÿÿÿÿ8ÊşÙù0H‰RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(†í¦·şÿÿÿÿ8¬İÙù0H€RMAJORZ
+CODE_SMELL
+ˆ
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¤ùÇ¦øÿÿÿÿ8ÊşÙù0H‹RMAJORZ
+CODE_SMELL

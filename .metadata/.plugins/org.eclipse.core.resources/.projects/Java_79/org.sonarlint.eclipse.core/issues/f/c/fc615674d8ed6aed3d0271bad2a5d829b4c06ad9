@@ -1,0 +1,26 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁ‘ò8ôÁ³æƒ1HŒ&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ƒÓÅ8œâ½æƒ1H›&RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŸ8ôÁ³æƒ1H‹&RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‡Ü¨úÿÿÿÿ8œâ½æƒ1Hš&RMINORZ
+CODE_SMELL
+w
+java:S3252'"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¾ƒÉNH‡&RCRITICALZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.awt.FlowLayout'.(Íğç¢ÿÿÿÿÿ8œâ½æƒ1H &RMINORZ
+CODE_SMELL
+x	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õ„­ÙH‰&RMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ€ÏûÿÿÿÿH—&RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ıÅúÿÿÿÿ8ôÁ³æƒ1HŠ&RMINORZ
+CODE_SMELL
+c
+java:S1481"1Remove this unused "borderLayout" local variable.(áô…X8—œÈæƒ1H´&RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(šá›8—œÈæƒ1H¶&RMAJORZ
+CODE_SMELL
